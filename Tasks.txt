@@ -1,0 +1,4 @@
+1. Track a user's location given IP address
+2. Reward a user a value given their location (First check Country then state if applicable)
+3. store a user's info in a database to reclaim later
+4.  
